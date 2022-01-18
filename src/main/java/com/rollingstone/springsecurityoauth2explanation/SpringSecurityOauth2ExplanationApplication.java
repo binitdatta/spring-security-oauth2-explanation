@@ -1,4 +1,4 @@
-package com.manh.springsecurityoauth2explanation;
+package com.rollingstone.springsecurityoauth2explanation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

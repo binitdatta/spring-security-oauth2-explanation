@@ -1,4 +1,4 @@
-package com.manh.springsecurityoauth2explanation;
+package com.rollingstone.springsecurityoauth2explanation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

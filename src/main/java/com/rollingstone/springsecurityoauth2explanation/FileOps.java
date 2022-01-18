@@ -1,4 +1,4 @@
-package com.manh.springsecurityoauth2explanation;
+package com.rollingstone.springsecurityoauth2explanation;
 
 import java.io.File;
 import java.io.IOException;
